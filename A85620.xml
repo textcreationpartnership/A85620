@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great plot against the Parliament of England and the Army under command of His Excellency Sir Thomas Fairfax. Wherein is set forth, the manner of a most bloudy engagement to destroy both Parliament and Army. With the names of the Scottish conspirators. And the proceedings of both Houses thereupon. Discovered by Colonell Jones, and read in both Houses of Parliament. Die 24. of September, 1647.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85620</idno>
+            <idno type="STC">Wing G1743</idno>
+            <idno type="STC">Thomason E408_10</idno>
+            <idno type="STC">ESTC R204678</idno>
+            <idno type="EEBO-CITATION">99864144</idno>
+            <idno type="PROQUEST">99864144</idno>
+            <idno type="VID">160543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160543)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E408[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great plot against the Parliament of England and the Army under command of His Excellency Sir Thomas Fairfax. Wherein is set forth, the manner of a most bloudy engagement to destroy both Parliament and Army. With the names of the Scottish conspirators. And the proceedings of both Houses thereupon. Discovered by Colonell Jones, and read in both Houses of Parliament. Die 24. of September, 1647.</title>
+                  <author>Jones, Colonel, fl. 1647.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for V.V. and are to be sold neere St. Dunstans Church,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Scottish conspirators = "Major General Starling and others"--Thomason Catalogue.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Starling, --  Major General.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160543:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>A GREAT PLOT AGAINST THE PARLIAMENT OF ENGLAND AND The
+<hi>ARMY</hi> under Command of His Excellency Sir <hi>THOMAS FAIRFAX.</hi>
+               <hi>Wherein is ſet forth,</hi> The manner of a moſt bloudy Engagement to
+deſtroy both Parliament and <hi>Army.</hi> With the names of the
+<hi>Scottiſh</hi> Con<g ref="char:EOLhyphen"/>ſpirators. <hi>And the proceedings of both Houſes
+thereupon.</hi>
+            </p>
+            <p>
+               <hi>Diſcovered by Colonell</hi> Jones, <hi>and read in both
+Houſes of PARLIAMENT. Die</hi> 24. of September, 1647.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>V. V.</hi> and are to be
+ſold neere St. <hi>Dunſtans</hi> Church, <hi>Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <head> 
+            <pb facs="tcp:160543:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:160543:2"/>
+            <!-- PDF PAGE 26 -->A GREAT PLOT DISCOVERED
+Againſt the Parliament of <hi>England,</hi> and their Army under command of
+his Excellency Sir <hi>Thomas Fairfar.</hi>
+         </head>
+         <div type="part">
+            <head>
+               <hi>Die</hi> 23 <hi>September,</hi> 1647.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">V</seg>Pon</hi> Thurſday <hi>being the 23. of this inſtant, we
+received infor<g ref="char:EOLhyphen"/>mation of a great Plot &amp; Con<g ref="char:EOLhyphen"/>ſpiracie, againſt the
+Parlia<g ref="char:EOLhyphen"/>ment of</hi> England, <hi>his Excellency Sir</hi> Thomas Fairfax,
+<hi>Lieutenant Generall</hi> Cromwell, <hi>Com<g ref="char:EOLhyphen"/>miſſary 
+<pb facs="tcp:160543:3"/>
+                  <!-- PDF PAGE 27 -->Generall</hi> Ireton, <hi>and the
+reſt of the Officers and Souldiers, under the power and command of the ſaid
+Geneaall, which plot, as it was intimated to both houſes of, Par<g ref="char:EOLhyphen"/>lirment,
+were acting and contriving by ſome diſaffected Scottiſh ſpirits, with a
+reſolution to combine and conſpire againſt the Parlia<g ref="char:EOLhyphen"/>ment of</hi>
+England, <hi>and to work and uſe means for a ſudden Engagement in another
+unna<g ref="char:EOLhyphen"/>turall and moſt horrid warre, againſt the moſt worthy and renowned
+Heroes of theſe times; the manner of this moſt great and machavi<g ref="char:EOLhyphen"/>lian
+Conſpiracy, I ſhall here briefly recite, for generall ſatisfaction to all
+Free-born</hi> Engliſh men, <hi>viz.</hi>
+            </p>
+            <p>Major Generall <hi>Starling,</hi> a Scottiſh man, Com<g ref="char:EOLhyphen"/>mander in
+chiefe, under the Lord <hi>Inchiqueen,</hi> of the Proteſtant Forces in
+<hi>Ireland,</hi> in the Province of <hi>Munſter,</hi> having a deſigne
+againſt the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> for an Engagement, both
+a<g ref="char:EOLhyphen"/>gainſt them, and their Army, which for the better effecting thereof,
+diſpatched feverall Letters to divers eminent Commanders in that Kingdome,
+<hi>(but intercepted)</hi> viz. the firſt to Sir <hi>Patrick Weimes,</hi> a
+Scotchman, but a moſt faithfull, and heroick ſouldier, having an excellent
+Regiment of <pb facs="tcp:160543:3"/>
+               <!-- PDF PAGE 27 -->Foot, and in actuall
+ſervice with collonell Jones againſt the Rebels in <hi>Lemſter:</hi> the
+ſecond to Maior Generall Monroe, Major Generall of the Scottiſh Army in the
+Province of <hi>Ulſter:</hi> the third to the Kingdome of <hi>Scotland,</hi>
+with Letters to Generall <hi>Leven,</hi> Generall of the Scottiſh Ar<g ref="char:EOLhyphen"/>my, and
+others.</p>
+            <p>All which Letters were intercepted, and many things (in them)
+diſcovered of very high nature, and concernment towards this Kingdome, the
+De<g ref="char:EOLhyphen"/>ſigne being to engage all in a warre againſt the Parliament and Army in
+<hi>England.</hi> But now it is hoped their Deſignes will be fruſtrated,
+for col. <hi>Jones</hi> hath diſcovered the chiefe Actors therein, and hath
+taken ſome of them, and committed them to ſafe cuſtody.</p>
+            <p>The Parliament having received information of theſe under-hand
+workings, and trecherous dea<g ref="char:EOLhyphen"/>lings, Ordered that a Letter be ſent to the Lord
+<hi>In<g ref="char:EOLhyphen"/>chiqueen,</hi> deſiring him to ſend in ſafe cuſtody the faid
+Colonel <hi>Starling</hi> to the Parliame<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Eng<g ref="char:EOLhyphen"/>land,</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:160543:4"/>
+            <!-- PDF PAGE 28 -->
+            <head>The Reſolution and Deſires of the Generall and Souldiery,
+concerning theirs, and the Kingdoms enemies.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the great neglect of divers perſons within the City of
+<hi>London,</hi> hath occaſioned too many delayes in raiſing Money for
+ſupply of the Army, and other Forces of the Kingdome; His Ex<g ref="char:EOLhyphen"/>cellency Sir
+<hi>Thomas Fairfax,</hi> and the General-Coun<g ref="char:EOLhyphen"/>cell of the Army, Doth declare,
+That they take no<g ref="char:EOLhyphen"/>tice of the great wants of the Souldiery, both of the Army,
+and other Forces, and Garriſons; as alſo of the ſufferings of the County,
+in reſpect of free quar<g ref="char:EOLhyphen"/>ter, which might have been peevented, and a courſe
+ta<g ref="char:EOLhyphen"/>ken for disbanding ſuperfluous Forces, and ſending o<g ref="char:EOLhyphen"/>ver of others for
+the reliefe of <hi>Ireland,</hi> and the ſup<g ref="char:EOLhyphen"/>plying of thoſe that are there
+already, had it not been for neglect or delay of thoſe on whom the
+Parlia<g ref="char:EOLhyphen"/>ment have depended in that particular, and they doe eſpecially take
+notice of the delayes made by the Ci<g ref="char:EOLhyphen"/>ty in advancing of that ſumme, which the
+Houſes have demanded of them upon the ſecurity of the Ar<g ref="char:EOLhyphen"/>reares ſo long
+ſince due from the City to the Army; upon which they doe declare, and
+propound to this effect.</p>
+            <p n="1">1. That they cannot but conſider the notorious
+rea<g ref="char:EOLhyphen"/>dineſſe of the Court of Aldermen, to the advancing of far greater
+ſums for the raiſing of a new warre, and proſecution of the late
+miſchievous practiſes and de<g ref="char:EOLhyphen"/>ſignes againſt the Parliament and Army;
+and that as their predipitate forwardneſſe therein, was the oceaſi<g ref="char:EOLhyphen"/>on of
+the Armies coming into theſe parts, ſo their backwardneſſe to the
+raiſing or advancing of the mo<g ref="char:EOLhyphen"/>ney now required for the ſervice of the
+Parliament, &amp; <pb facs="tcp:160543:4"/>
+               <!-- PDF PAGE 28 -->ſupply of the
+Army, hath been and is the occaſion of the armies continuance heree: and
+therefore they can<g ref="char:EOLhyphen"/>not but offer it it, as what they humbly conceive moſt
+juſt and reaſonable.</p>
+            <p>
+               <hi>That for what time their defauls or delayes have
+oc<g ref="char:EOLhyphen"/>caſioned, and ſhall further occaſion the Armies ſtay here<g ref="char:EOLhyphen"/>abouts,
+the charge thereof ſhould ſome way be laid upon them, and their adherents
+about the City.</hi>
+            </p>
+            <p>
+               <hi>That the Houſes would be pleaſed ſpeedily to conſider
+of the Delinquencie of thoſe that had a hand in the Tu<g ref="char:EOLhyphen"/>mult, Deſine, and
+Engagement of a new Warre, and that ſuch Fines may be upon them for the
+ſame, as ſhall bee a<g ref="char:EOLhyphen"/>greeable to juſtice.</hi>
+            </p>
+            <p>Laſtly, ſince it is moſt evident, that for the ſpeedy
+bringing in of the money required upon the arrears, there wants not in the
+ſaid Major, Aldermen, and Common-Councell, either authority to levy it, or
+a<g ref="char:EOLhyphen"/>bility to advance it by way of Loan till it can be levy<g ref="char:EOLhyphen"/>ed, and it ir
+therefore offered,</p>
+            <p>
+               <hi>That in caſe the Money be not brought in by the time
+limited, the Parliament would be pleaſed to give leave to the Generall (with
+the advice and directions of the Com<g ref="char:EOLhyphen"/>mittee for the Army) for the levying of
+the ſaid Ar<g ref="char:EOLhyphen"/>reares</hi>
+            </p>
+            <p>All which they rather deſire from grounds of rea<g ref="char:EOLhyphen"/>ſon and
+evidence from the ſpeeches of many in the City, and deſignes and hopes of
+the Parliament and Armies Enemies to raiſe the Army into diſtempers, and
+the Country about them into confuſion.</p>
+            <p>This Declaration was agreed upon at the Head<g ref="char:EOLhyphen"/>quarters at
+<hi>Putney,</hi> upon Thurſday laſt, there being a <pb facs="tcp:160543:5"/>
+               <!-- PDF PAGE 29 -->Generall
+Councell of the Army appointed to be held every Thurſday. The Generall
+Councell met in the Church, the Generall, many Generall Officers,
+Field-Officers, inferiour Officers, and Agitators met. A great part of the time
+was ſpent in conſideration, and debate of the Propoſals of the Army, and
+ſome few things agreed upon to be altered, and explained in them, which no
+doubt will give much ſatisfaction to the Kingdome.</p>
+            <p>After the aforeſaid Declaration was finiſhed, it was, by the
+appointment of his Excellency, and the Councell of Warre, ſent to the Right
+Honourable the Commiſſioners of Lords and Commons reſiding with the Army,
+to be preſented from them to both Houſes of Parliament, which according,
+with a Letter from the Generall and Army, to this effect, <hi>vix. That they
+earneſtly deſired, ſome ſpeedy courſe might be taken for their pay,
+that ſo they might be inabled to pay their quarters,</hi> was preſented to
+both Houſes of Parliament upon Satturday laſt, and after reading thereof,
+orde<g ref="char:EOLhyphen"/>red to be communicated to the Lord Major, Alder<g ref="char:EOLhyphen"/>men, and Common-Councell
+of the City of Lon<g ref="char:EOLhyphen"/>don.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
